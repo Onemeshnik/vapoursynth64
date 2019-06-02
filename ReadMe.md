@@ -1,0 +1,2 @@
+VapourSynth64 lite installer  - it does not need preinstalled Python, takes 25mb, no developer stuff, no strane dependencies. It designed for users. 
+I used SVP4, original installer, fat vapoursynth installer
